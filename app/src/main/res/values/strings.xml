@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTricount</string>
+    <string name="btn_valider">Valider</string>
+    <string name="btn_add">+</string>
+    <string name="text_Titre">Titre</string>
+    <string name="text_description">Description</string>
+</resources>
