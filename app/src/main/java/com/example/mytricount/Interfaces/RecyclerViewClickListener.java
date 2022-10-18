@@ -1,4 +1,4 @@
-package Interfaces;
+package com.example.mytricount.Interfaces;
 
 import android.view.View;
 

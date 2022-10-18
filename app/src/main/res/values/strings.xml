@@ -4,4 +4,22 @@
     <string name="btn_add">+</string>
     <string name="text_Titre">Titre</string>
     <string name="text_description">Description</string>
+    <string name="txt_participant">Participants</string>
+    <string name="btn_ajouter">Ajouter</string>
+
+    <string-array name="currencies">
+        <item>EUR</item>
+        <item>USD</item>
+        <item>CHF</item>
+        <item>GBP</item>
+    </string-array>
+    <string-array name="category">
+        <item>Voyage</item>
+        <item>Coloc</item>
+        <item>Couple</item>
+        <item>Événement</item>
+        <item>Projet</item>
+        <item>Autre</item>
+    </string-array>
+
 </resources>
